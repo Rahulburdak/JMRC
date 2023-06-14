@@ -1,0 +1,117 @@
+
+.First{
+  border : 10px solid black;
+}
+.one{
+  height: 200px;
+  width : 400px;
+  border: 10px solid black;
+  border-bottom: 50px solid black;
+  margin-top: 100px;
+  border-radius: 50%;
+  margin-left: 450px;
+
+}
+img{
+  height: 200px;
+  width : 400px;
+  border-radius: 50%;
+  margin-top: 10px;
+
+}
+.two{
+  height: 200px;
+  width : 400px;
+  border: 10px solid black;
+  border-bottom: 50px solid black;
+    margin-top: 200px;
+    border-radius: 50%;
+    margin-left: 450px;
+
+
+}
+.three{
+  height: 200px;
+  width : 400px;
+  border: 10px solid black;
+  border-bottom: 50px solid black;
+    margin-top: 200px;
+    border-radius: 50%;
+    margin-left: 450px;
+
+}
+.four{
+  height: 200px;
+  width : 400px;
+  border: 10px solid black;
+    margin-top: 200px;
+  border-bottom: 50px solid black;
+  border-radius: 50%;
+  margin-left: 450px;
+
+}
+.six{
+  height: 200px;
+  width : 400px;
+  border: 10px solid black;
+    margin-top: 200px;
+  border-bottom: 50px solid black;
+  border-radius: 50%;
+  margin-left: 450px;
+
+}
+body{
+background-color:  #8F3A8147;
+}
+h2{
+
+}
+a{
+  color: black;
+}
+.o{
+  margin-left: 160px;
+  margin-top: 50px;
+  color: black;
+}
+.t{
+  margin-left: 90px;
+  margin-top: 50px;
+}
+.th{
+  margin-left: 60px;
+  margin-top: 50px;
+
+}
+.f{
+  margin-left: 90px;
+  margin-top: 50px;
+}
+.s{
+  margin-left: 170px;
+  margin-top: 50px;
+}
+.five{
+margin-top: 100px;
+  background-color: black;
+  height: 100px;
+
+}
+.first{
+  color: green;
+  margin-top: 50px;
+  margin-left: 100px;
+  font-style: italic;
+
+}
+.second{
+  color: white;
+  line-height: 0px;
+  margin-left: 300px;
+  margin-bottom: 100px;
+  margin-top: 0px;
+
+}
+.rr{
+  color: white;
+}
